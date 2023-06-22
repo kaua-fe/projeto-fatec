@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgba(128, 128, 128, 0.425);
+}
+.perfil{
+    padding: 3px;
+    background-color: rgba(128, 128, 128, 0.562);
+    width: 358px;
+    height: 300px;
+    border-radius: 20px;
+}
+.foto{
+    width: 135px;
+    margin: 10px auto;
+    height: 134px;
+}
+img{
+    box-shadow: 1px 3px 7px 12px rgba(0, 0, 0, 0.158);
+    width: 100%;
+    border-radius: 50%;
+}
+h3{
+    text-align: center;
+    font-size: 1em;
+}
+
+.tabela{
+    text-align: left;
+    font-size: small;
+    
+}
+.tabela2{
+    text-align: left;
+    font-size: small;
+    width: 113%;
+}
+.blue{
+    color:rgb(40, 40, 248);
+    border: 1px solid black;
+}
+tr, td{
+    
+    font-size: small;
+    padding-right: 30px;
+}
